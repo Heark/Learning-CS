@@ -19,6 +19,11 @@ namespace InfiniteLoop
                 };
                 Console.WriteLine(i);
             }
+            
+            for (int x = 0; x < x + 1; x--) 
+            {
+                
+            }
             Console.ReadLine();
         }
     }
